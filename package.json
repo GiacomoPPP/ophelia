@@ -6,9 +6,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "expo eject"
   },
   "dependencies": {
     "@react-native-community/datetimepicker": "3.0.4",
