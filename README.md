@@ -10,8 +10,14 @@ La mia idea è quella di offrire all'utente uno strumento per organizzare impegn
 ## Com'è strutturata l'interfaccia?
 L'interfaccia è suddivisa in due schermate, *Oggi* e *Calendario*, alle quali si può accedere tramite una barra di navigazione.
 
-La prima contiene al suo interno una lista degli impegni, programmati per i giorni precedenti o per quello corrente, che non siano ancora stati compiuti. Premendo su un impegno si aprirà un popup nel quale si potrà vedere in che giorno quell'impegno è iniziato e si potrà rimuoverlo premendo su un pulsante 'Fatto'.
+Entrambe presentano un bottone *Crea nuovo impegno*, che aprirà un popup nel quale si possono inserire nome e data di un nuovo impegno e caricarlo.
 
-La seconda contiene invece un calendario, aperto sul mese corrente. Nei giorni nei quali un impegno inizia sono collocati dei puntini; inoltre, premendo su una data si aprirà un popup che presenta una lista degli impegni programmati per quel giorno.
+<img src="https://user-images.githubusercontent.com/80257825/111975596-147e9400-8b01-11eb-9bc2-a36d4fb4f9b6.gif" width="413" height="830"/>
 
-Infine, entrambe le schermate *Oggi* e *Calendario* presentano un bottone *Crea nuovo impegno*, che aprirà un popup nel quale si possono inserire nome e data di un nuovo impegno.
+*Calendario* contiene, per l'appunto, un calendario aperto sul mese corrente. Nei giorni nei quali un impegno inizia sono collocati dei puntini; inoltre, premendo su una data si aprirà un popup che presenta una lista degli impegni programmati per quel giorno.
+
+<img src="https://user-images.githubusercontent.com/80257825/111975630-1b0d0b80-8b01-11eb-9399-358408b1e9f5.gif" width="413" height="830"/>
+
+Dulcis in fundo, *Oggi* contiene una lista degli impegni, programmati per i giorni precedenti o per quello corrente, che non siano ancora stati compiuti. Premendo su un impegno si aprirà un popup nel quale si potrà vedere in che giorno quell'impegno è iniziato e si potrà rimuoverlo premendo su un pulsante 'Fatto'.
+
+<img src="https://user-images.githubusercontent.com/80257825/111983712-b8207200-8b0a-11eb-89be-4c92d2db1bfd.gif" width="413" height="830"/>
